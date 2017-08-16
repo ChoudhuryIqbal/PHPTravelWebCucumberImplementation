@@ -17,7 +17,7 @@ import com.phptravel.cucumber.PhpTravelCucumber.testBase.TestBase;
  * @author choudhuryIqbal
  *
  */
-public class HomePage extends TestBase {
+public class HomePage extends TestBase{
 	
 		public static final Logger log = Logger.getLogger(HomePage.class.getName());
 		WebDriver driver;
